@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Speditionskaufmann App Icon">
+  <rect width="512" height="512" rx="96" fill="#17324d"/>
+  <path d="M104 146h214c30 0 54 24 54 54v18h38l46 62v86h-44c-8 28-34 48-64 48s-56-20-64-48H209c-8 28-34 48-64 48s-56-20-64-48H56V194c0-27 21-48 48-48Z" fill="#fbfaf7"/>
+  <path d="M372 246v62h56l-46-62h-10Z" fill="#c65637"/>
+  <path d="M116 218h142M116 270h182M116 322h94" stroke="#17324d" stroke-width="24" stroke-linecap="round"/>
+  <circle cx="145" cy="366" r="28" fill="#17324d"/>
+  <circle cx="348" cy="366" r="28" fill="#17324d"/>
+</svg>
